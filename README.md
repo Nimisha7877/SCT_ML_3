@@ -21,7 +21,7 @@ This project is a simple machine learning solution to classify images as either 
 ## 🗂️ Dataset Details
 
 - **Dataset Name:** PetImages
-- **Source:** [Microsoft PetImages Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=54765)
+- **Source:** [https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset]
 
 ### Folder Structure
 
