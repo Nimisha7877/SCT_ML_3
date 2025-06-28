@@ -1,3 +1,6 @@
+#SCT_ML_3
+A machine learning project that implements a support vector machine to classify images of cats and dogs from kaggle Dataset. Customers are grouped based on their annual income and spending behavior to identify marketing-friendly clusters. | Internship @ SkillCraft Technologies
+
 # 🐱🐶 Cat vs. Dog Image Classifier using SVM
 
 This project is a simple machine learning solution to classify images as either a **Cat** or a **Dog** using a Support Vector Machine (SVM). It demonstrates basic image preprocessing, feature extraction, and model training for beginners working with computer vision tasks.
