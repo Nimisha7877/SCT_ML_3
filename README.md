@@ -1,5 +1,5 @@
-# SCT_ML_3
-A machine learning project that implements a support vector machine to classify images of cats and dogs from kaggle Dataset. Customers are grouped based on their annual income and spending behavior to identify marketing-friendly clusters. | Internship @ SkillCraft Technologies
+# Project_4
+A machine learning project that implements a support vector machine to classify images of cats and dogs from kaggle Dataset. Customers are grouped based on their annual income and spending behavior to identify marketing-friendly clusters. 
 
 # 🐱🐶 Cat vs. Dog Image Classifier using SVM
 
